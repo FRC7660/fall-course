@@ -21,6 +21,7 @@ Students will also need to register for a free Educative.io account
 ## Additional Resources
  * [VSCode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
  * [FGR Shared Folder](https://fgrhsaaorg.sharepoint.com/:f:/r/sites/RoboticsClub/Shared%20Documents/Software%20Team/Fall%2022%20Programming%20Course?csf=1&web=1&e=YvFFHR)
+ * Questions. Email all of the following: erickeithlee@gmail.com ssmoser@gmail.com vburns@fgrhs.org ldefeli1@ford.com 
 
 ## Assignments
 
@@ -28,3 +29,4 @@ Students will also need to register for a free Educative.io account
  * [Assignment 2](assignment-02/README.md) - Oct. 2 to Oct. 9, 2022
  * [Assignment 3](assignment-03/README.md) - Oct. 9 to Oct. 15, 2022
  * [Assignment 4](assignment-04/README.md) - Oct. 16 to Oct. 22, 2022
+ * [Assignment 5](assignment-05/README.md) - Oct. 22 to Oct. 29, 2022
