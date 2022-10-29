@@ -23,14 +23,24 @@ Schedule (subject to change based on student progress):
 * Students should also practice “committing” and “reverting” using GitHub Desktop
 * The two-hour office-hour/instruction will be Saturday, Oct 22, 2:30 to 4:30pm
 
-
 5. Oct. 23 to Oct. 29 
 * Complete “Conditional Statements” on Educative.io course
 * Start "Loops" on Educative.io course
     * Practice Using VS Code Debugger
 * Students should also practice “committing” and “reverting” using GitHub Desktop
 * The two-hour office-hour/instruction will be Saturday, Oct 29, 3:30 to 5:30pm
-
+    * please tell metors today if you are not able to access github repository for this course  
+    * any questions on conditionals?
+    * loops
+        * try to figure out for yourself how many times a loop goes around
+        * loop example
+        * fib example
+            * y = x^2 + 2x also written as f(x) = x^2 + 2x
+            * fib(n) = fib(n-2) + fib(n-1)
+            * discuss inputs and outputs
+    * course difficulty increasing
+    * preview next couple of weeks
+    
 6. Oct. 30 to Nov. 5
 * Complete “Loops” on Educative.io course
 * Start “Methods” on Educative.io course
