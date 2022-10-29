@@ -23,26 +23,29 @@ Schedule (subject to change based on student progress):
 * Students should also practice “committing” and “reverting” using GitHub Desktop
 * The two-hour office-hour/instruction will be Saturday, Oct 22, 2:30 to 4:30pm
 
+
 5. Oct. 23 to Oct. 29 
-* Complete “Loops” on Educative.io course
-* Practice Using VS Code Debugger
-* The two-hour office-hour/instruction will be Saturday, Oct 29, 2:30 to 4:30pm
+* Complete “Conditional Statements” on Educative.io course
+* Start "Loops" on Educative.io course
+    * Practice Using VS Code Debugger
+* Students should also practice “committing” and “reverting” using GitHub Desktop
+* The two-hour office-hour/instruction will be Saturday, Oct 29, 3:30 to 5:30pm
 
 6. Oct. 30 to Nov. 5
-* Complete “Methods” on Educative.io course
-* Read FRC documentation re command-based robot
-* The two-hour office-hour/instruction will be Saturday, Nov. 5
+* Complete “Loops” on Educative.io course
+* Start “Methods” on Educative.io course
+* The two-hour office-hour/instruction will be Saturday, Nov. 5, 2:30 to 4:30pm
     * Discussion of pass by value v. pass by reference
 
-7. Nov. 5 to Nov. 12 
-* Complete “Classes and Inheritance” on Educative.io course
-* Continue to read FRC documentation re command-based robot
+7. Nov. 5 to Nov. 12
+* Finish "Methods" on Educative.io course 
+* Finish “Classes and Inheritance” on Educative.io course
 * The two-hour office-hour/instruction will be Saturday, Nov. 12
 
 8. Nov. 12 to Nov. 19
 * Review FRC Docs re Romi
 * Review Romi Code
 * The two-hour office-hour/instruction will be Saturday, Nov. 19
-* Students will work on programming the ROMI
+    * Students will work on programming the ROMI
 
 
