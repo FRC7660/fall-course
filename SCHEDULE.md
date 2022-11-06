@@ -45,17 +45,25 @@ Schedule (subject to change based on student progress):
 * Complete “Loops” on Educative.io course
 * Start “Methods” on Educative.io course
 * The two-hour office-hour/instruction will be Saturday, Nov. 5, 2:30 to 4:30pm
-    * Discussion of pass by value v. pass by reference
 
-7. Nov. 5 to Nov. 12
-* Finish "Methods" on Educative.io course 
-* Finish “Classes and Inheritance” on Educative.io course
-* The two-hour office-hour/instruction will be Saturday, Nov. 12
 
-8. Nov. 12 to Nov. 19
-* Review FRC Docs re Romi
-* Review Romi Code
-* The two-hour office-hour/instruction will be Saturday, Nov. 19
-    * Students will work on programming the ROMI
+___7. Nov. 5 to Nov. 12___
+* Complete "Loops" on Educative.io course
+* Complete "Methods" on Educative.io course 
+* The two-hour office-hour/instruction will be Saturday, Nov. 12, 2:30 to 4:30
+    * Mentors will help students progress on this checklist:<br>
+        [ ] challenge 1 of loops<br>
+        [ ] challenge 2 of loops<br>
+        [ ] challenge 3 of loops<br>
+        [ ] challenge 1 of methods<br>
+        [ ] challenge 2 of methods<br>
+        [ ] challenge 3 of methods<br>
+        [ ] challenge 4 of methods<br>
 
+8. Nov. 12 to Nov. 19 (Last Week!)
+* Complete “Classes and Inheritance” on Educative.io course
+* The two-hour office-hour/instruction will be Saturday, Nov. 19, 2:30 to 4:30
+    * "Fun" programming challenge?
+    * Discussion of "why inheritence"?
+    * Discussion of pass by value v. pass by reference?
 

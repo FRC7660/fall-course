@@ -6,7 +6,7 @@ Problem statement:
 - Write a class having 
     - two double type variables for length and height 
     - an overloaded constructor, 
-    - one member function called area which will return the area of a right-angled triangle, and
+    - one member function called area which will return the area of a right-angled triangle
 */
 public class RightTriangle {
 
