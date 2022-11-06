@@ -5,7 +5,7 @@ Problem statement:
 - Calculate the area of the right-angled triangle using a class.
 - Write a class having 
     - two double type variables for length and height 
-    - an overloaded constructor, 
+    - an overloaded constructor (a constructor that takes in double length, double height) 
     - one member function called area which will return the area of a right-angled triangle
 */
 public class RightTriangle {
