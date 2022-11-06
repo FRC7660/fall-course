@@ -32,23 +32,10 @@ Then there are two derived classes
 */
 
 public class Animal {
-    private String name;
-    private int age;
-
-    public Animal() {
-        age = 0;
-        name = "";
-    }
-    public void set_data(int a, String n) {
-        age = a;
-        name = n;
-    }
-    public int get_age(){
-        return age;
-    }
-    public String get_name(){
-        return name;
-    }
+    /*create member variables and methods here
+    *
+    *    
+    */
     public static void main(String[] args) {
         Zebra z = new Zebra();
         Dolphin d = new Dolphin();
@@ -62,13 +49,7 @@ public class Animal {
 }
 
 class Zebra extends Animal {
-    public String message() {
-        return "The zebra named " + get_name() + " is " + get_age() + " years old. The zebra comes from Africa";
-    }
 }
 
 class Dolphin extends Animal {
-    public String message() {
-        return "The dolphin named " + super.get_name() + " is " + super.get_age() + " years old. The dolphin comes from New Zealand";
-    }
 }
