@@ -47,7 +47,7 @@ Schedule (subject to change based on student progress):
 * The two-hour office-hour/instruction will be Saturday, Nov. 5, 2:30 to 4:30pm
 
 
-___7. Nov. 5 to Nov. 12___
+7. Nov. 5 to Nov. 12
 * Complete "Loops" on Educative.io course
 * Complete "Methods" on Educative.io course 
 * The two-hour office-hour/instruction will be Saturday, Nov. 12, 2:30 to 4:30
@@ -63,7 +63,5 @@ ___7. Nov. 5 to Nov. 12___
 8. Nov. 12 to Nov. 19 (Last Week!)
 * Complete “Classes and Inheritance” on Educative.io course
 * The two-hour office-hour/instruction will be Saturday, Nov. 19, 2:30 to 4:30
-    * "Fun" programming challenge?
-    * Discussion of "why inheritence"?
-    * Discussion of pass by value v. pass by reference?
+    * Coding Challenge: High Low Card Game!
 
